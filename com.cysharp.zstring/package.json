@@ -12,6 +12,6 @@
   "license": "MIT",
   "category": "String",
   "dependencies": {
-    "com.nuget.systemruntimecompilerservicesunsafe": "6.0.0"
+    "com.nuget.systemruntimecompilerservicesunsafe": "https://github.com/NicolasDevNet/NugetsCollection.git?path=com.nuget.SystemRuntimeCompilerServicesUnsafe"
   }
 }
