@@ -10,8 +10,8 @@
   "license": "MIT",
   "category": "Scripting",
   "dependencies": {
-    "com.nuget.systemruntimecompilerservicesunsafe": "6.0.0",
-    "com.nuget.microsoftnetdtringtools": "17.6.3"
+    "com.nuget.systemruntimecompilerservicesunsafe": "https://github.com/NicolasDevNet/NugetsCollection.git?path=com.nuget.SystemRuntimeCompilerServicesUnsafe",
+    "com.nuget.microsoftnetdtringtools": "https://github.com/NicolasDevNet/NugetsCollection.git?path=com.nuget.MicrosoftNETStringTools"
   },
   "author": {
     "name": "Neuecc",
