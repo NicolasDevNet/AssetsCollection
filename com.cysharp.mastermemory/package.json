@@ -11,7 +11,7 @@
   "license": "MIT",
   "category": "database",
   "dependencies": {
-    "com.neuecc.messagepack": "2.5.108"
+    "com.neuecc.messagepack": "https://github.com/NicolasDevNet/AssetsCollection.git?path=com.cysharp.messagepack"
   },
   "author": {
     "name": "Cysharp, Inc.",
