@@ -1,0 +1,20 @@
+{
+  "name": "com.neuecc.messagepack",
+  "displayName": "MessagePack",
+  "version": "2.5.108",
+  "unity": "2018.4",
+  "description": "Extremely Fast MessagePack Serializer for C#.",
+  "keywords": [
+    "Serializer"
+  ],
+  "license": "MIT",
+  "category": "Scripting",
+  "dependencies": {
+    "com.nuget.systemruntimecompilerservicesunsafe": "6.0.0",
+    "com.nuget.microsoftnetdtringtools": "17.6.3"
+  },
+  "author": {
+    "name": "Neuecc",
+    "url": "https://github.com/neuecc"
+  }
+}

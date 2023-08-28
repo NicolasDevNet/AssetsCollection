@@ -1,0 +1,7 @@
+{
+	"name": "com.demigiant.dotween",
+	"displayName": "DOTween",
+	"version": "1.2.705",
+	"description": "ANIMATE ANYTHING via simplified code. DOTween is a fast, efficient, fully type-safe object-oriented animation engine.",
+	"unity": "2018.4"
+}
